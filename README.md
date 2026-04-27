@@ -59,11 +59,34 @@
 
 ## 💻 Tech Stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![SQL Server](https://img.shields.io/badge/sql%20server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+### 📊 Data Analysis & Visualization
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-11557c?style=flat)
+![Seaborn](https://img.shields.io/badge/seaborn-4c72b0?style=flat)
+
+---
+
+### 🤖 Machine Learning
+![Linear Regression](https://img.shields.io/badge/Linear%20Regression-FF6F00?style=flat)
+![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-FF6F00?style=flat)
+![Decision Tree](https://img.shields.io/badge/Decision%20Tree-228B22?style=flat)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-006400?style=flat)
+![Time Series](https://img.shields.io/badge/Time%20Series-8A2BE2?style=flat)
+
+---
+
+### 📈 Statistics
+![Inferential Statistics](https://img.shields.io/badge/Inferential%20Statistics-FF1493?style=flat)
+![Hypothesis Testing](https://img.shields.io/badge/Hypothesis%20Testing-FF1493?style=flat)
+![Probability](https://img.shields.io/badge/Probability-FF1493?style=flat)
+
+---
+
+### 🗄️ Databases & BI Tools
+![SQL Server](https://img.shields.io/badge/sql%20server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Power BI](https://img.shields.io/badge/power%20bi-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
 ---
 
