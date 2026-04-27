@@ -81,6 +81,13 @@
 
 ---
 
+### 🧠 Deep Learning & NLP
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF4500?style=flat)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=flat)
+![NLP](https://img.shields.io/badge/NLP-20B2AA?style=flat)
+
+---
+
 ### 📉 Dimensionality Reduction
 ![PCA](https://img.shields.io/badge/PCA-8A2BE2?style=flat)
 ![LDA](https://img.shields.io/badge/LDA-9370DB?style=flat)
