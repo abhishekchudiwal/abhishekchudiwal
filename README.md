@@ -1,26 +1,25 @@
 ![logo](https://img.freepik.com/free-vector/gradient-devops-illustration_23-2149370940.jpg?semt=ais_hybrid&w=740&q=80)
 
-<h1 align="center">Hi 👋, I'm Yourname</h1>
-<h3 align="center">Passionate Developer | JavaScript | React JS | Machine Learning Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Abhishek Chudiwal</h1>
+<h3 align="center">Passionate Developer | Python | SQL | Machine Learning Enthusiast</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yourname&label=Profile%20views&color=0e75b6&style=flat" alt="yourname" />
+  <img src="https://komarev.com/ghpvc/?username=abhishekchudiwal&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekchudiwal" />
 </p>
 
 ## 💫 About Me:
 - 🌱 I’m currently learning **JavaScript, React JS, and Machine Learning with Python**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/)
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/)
-- 📫 How to reach me: **sample@gmail.com**
+- 💼 Connect with me on [LinkedIn](www.linkedin.com/in/abhishekchudiwal03)
+- 📫 How to reach me: **abhishek.chudiwal03@gmail.com**
 
 ## 🌐 Socials:
 <p align="left">
-  <a href="https://www.linkedin.com/in/" target="_blank">
+  <a href="www.linkedin.com/in/abhishekchudiwal03" target="_blank">
     <img align="center"
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         alt="yourname"
+         alt="abhishekchudiwal"
          height="30"
          width="40" />
   </a>
@@ -30,19 +29,38 @@
 
 <p align="left">
 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="40"
-      height="40"/>
-  </a>
 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus"
-      width="40"
-      height="40"/>
-  </a>
+<!-- MSSQL -->
+<a href="https://www.microsoft.com/en-in/sql-server" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png"
+    alt="mssql"
+    width="40"
+    height="40"/>
+</a>
+
+<!-- Python -->
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+    alt="python"
+    width="40"
+    height="40"/>
+</a>
+
+<!-- Power BI -->
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/power-bi.png"
+    alt="powerbi"
+    width="40"
+    height="40"/>
+</a>
+
+<!-- Excel -->
+<a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"
+    alt="excel"
+    width="40"
+    height="40"/>
+</a>
 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -61,28 +79,25 @@
 </p>
 
 ## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+
 
 ## 📊 Most Used Languages:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekchudiwal&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📈 GitHub Stats:
 <p>
   <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&locale=en"
-       alt="yourname" />
+       src="https://github-readme-stats.vercel.app/api?username=abhishekchudiwal&show_icons=true&locale=en"
+       alt="abhishekchudiwal" />
 </p>
 
 ## 🔥 GitHub Streak:
 <p>
   <img align="center"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=yourname"
-       alt="yourname" />
+       src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekchudiwal"
+       alt="abhishekchudiwal" />
 </p>
