@@ -107,11 +107,6 @@
 
 ## 📊 Featured Projects
 
-🔹 **E-commerce Transaction Analysis**
-- Cleaned and analyzed transaction dataset using Pandas
-- Identified **top customers & spending trends**
-- Built insights for business decision making
-
 🔹 **Fraud Detection System**
 - Used ML models to detect suspicious transactions
 - Applied **feature engineering + classification models**
