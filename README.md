@@ -60,23 +60,40 @@
 ## 💻 Tech Stack
 
 ### 📊 Data Analysis & Visualization
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-11557c?style=flat)
-![Seaborn](https://img.shields.io/badge/seaborn-4c72b0?style=flat)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=flat)
 
 ---
 
-### 🤖 Machine Learning
+### 🤖 Machine Learning (Supervised)
 ![Linear Regression](https://img.shields.io/badge/Linear%20Regression-FF6F00?style=flat)
 ![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-FF6F00?style=flat)
 ![Decision Tree](https://img.shields.io/badge/Decision%20Tree-228B22?style=flat)
 ![Random Forest](https://img.shields.io/badge/Random%20Forest-006400?style=flat)
-![Time Series](https://img.shields.io/badge/Time%20Series-8A2BE2?style=flat)
+
+---
+
+### 🔍 Machine Learning (Unsupervised)
+![KMeans](https://img.shields.io/badge/KMeans-1E90FF?style=flat)
+![Hierarchical Clustering](https://img.shields.io/badge/Hierarchical%20Clustering-4169E1?style=flat)
+
+---
+
+### 📉 Dimensionality Reduction
+![PCA](https://img.shields.io/badge/PCA-8A2BE2?style=flat)
+![LDA](https://img.shields.io/badge/LDA-9370DB?style=flat)
+
+---
+
+### ⏳ Time Series
+![Time Series (ARIMA)](https://img.shields.io/badge/Time%20Series%20(ARIMA)-8A2BE2?style=flat)
 
 ---
 
 ### 📈 Statistics
+![Descriptive Statistics](https://img.shields.io/badge/Descriptive%20Statistics-FF1493?style=flat)
 ![Inferential Statistics](https://img.shields.io/badge/Inferential%20Statistics-FF1493?style=flat)
 ![Hypothesis Testing](https://img.shields.io/badge/Hypothesis%20Testing-FF1493?style=flat)
 ![Probability](https://img.shields.io/badge/Probability-FF1493?style=flat)
@@ -84,11 +101,9 @@
 ---
 
 ### 🗄️ Databases & BI Tools
-![SQL Server](https://img.shields.io/badge/sql%20server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Power BI](https://img.shields.io/badge/power%20bi-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-
----
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
 ## 📊 Featured Projects
 
