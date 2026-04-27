@@ -108,8 +108,8 @@
 ## 📊 Featured Projects
 
 🔹 **Netflix-Recommendation-System**
--Netflix Recommendation System using ML techniques to suggest content based on user preferences. 
--Includes data preprocessing, similarity-based recommendations, and EDA to improve personalization and user experience.
+- Netflix Recommendation System using ML techniques to suggest content based on user preferences. 
+- Includes data preprocessing, similarity-based recommendations, and EDA to improve personalization and user experience.
 
 🔹 **Fraud Detection System**
 - Used ML models to detect suspicious transactions
