@@ -122,10 +122,6 @@
 - Used ML models to detect suspicious transactions
 - Applied **feature engineering + classification models**
 
-🔹 **Time Series Forecasting**
-- Built forecasting model using **ARIMA**
-- Predicted future trends with seasonal analysis
-
 ---
 
 ## 📊 GitHub Stats
